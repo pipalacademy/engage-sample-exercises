@@ -9,3 +9,4 @@ class TestFibonacci(TestCase):
         self.assertEqual(fib(0), 0)
         self.assertEqual(fib(1), 1)
         self.assertEqual(fib(5), 5)
+        self.assertEqual(fib(7), 13)
