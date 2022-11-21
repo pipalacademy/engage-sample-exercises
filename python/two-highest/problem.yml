@@ -1,0 +1,9 @@
+title: Two highest
+blurb: For a given list, return the two highest numbers as a tuple
+files:
+    code:
+        - two_highest.py
+    test:
+        - test_two_highest.py
+    solution: 
+        - solution/two_highest.py
